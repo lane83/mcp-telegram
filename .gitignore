@@ -1,0 +1,18 @@
+# Ignore config file with sensitive data
+config.json
+
+# Ignore build artifacts
+build/
+node_modules/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+{
+  "telegram": {
+    "botToken": "YOUR_TELEGRAM_BOT_TOKEN_HERE",
+    "allowedChatIds": [
+      1234567890
+    ]
+  }
+}
